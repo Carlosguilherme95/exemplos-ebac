@@ -1,5 +1,10 @@
-# exemplos-ebac
-exemplos que foram tratados nas aulas.
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, Carlos");
+    }
+}
 
-aprendendo a usar comit, push e add.
-mudando mais uma coisa.
+/*
+
+atividade ebac...
+*/
